@@ -22,7 +22,7 @@ __/\\\________/\\\__/\\\\\\\\\\\\\\\__/\\\______________/\\\___________________/
 <a href="https://github.com/xannystar/xannystar/actions"><img src="https://github.com/8BitJonny/8BitJonny/actions/workflows/main.yml/badge.svg" alt="Build Readme Status"></a></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=016EEA&width=800&lines=This+page+is+best+viewed+in+dark+mode.;Hope+you+enjoy!;Now+we+both+probably+need+to+get+back+to+coding" />
+  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=99c5f6&width=800&lines=This+page+is+best+viewed+in+dark+mode.;Hope+you+enjoy!;Now+we+both+probably+need+to+get+back+to+coding" />
 </p>
 
 
