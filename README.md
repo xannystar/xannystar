@@ -10,7 +10,7 @@ __/\\\________/\\\__/\\\\\\\\\\\\\\\__/\\\______________/\\\___________________/
         _\///________\///__\///////////////__\///////////////__\///////////////_______\/////_______
 ```
 <br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&width=435&lines=I'm+xannystar+o(*%EF%BF%A3%E2%96%BD%EF%BF%A3*)%E3%83%96" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=99C5F6&width=435&lines=I'm+xannystar+o(*%EF%BF%A3%E2%96%BD%EF%BF%A3*)%E3%83%96" alt="Typing SVG" /></a>
 <ul>
   <li> 🚩 I’m currently learning Golang
   <li> 🎓 Software Engineering student from <a href="https://metu.edu.kz/">International Engineering Technological University</a> </li>
