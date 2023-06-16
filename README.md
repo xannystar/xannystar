@@ -12,10 +12,11 @@ __/\\\________/\\\__/\\\\\\\\\\\\\\\__/\\\______________/\\\___________________/
 <br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=99C5F6&width=435&lines=I'm+xannystar+o(*%EF%BF%A3%E2%96%BD%EF%BF%A3*)%E3%83%96" alt="Typing SVG" /></a>
 <ul>
-  <li> 🚩 I’m currently learning Golang
+  <li> 🚩 I’m currently learning Golang </li>
   <li> 🎓 Software Engineering student from <a href="https://metu.edu.kz/">International Engineering Technological University</a> </li>
   <li> 📫 How to reach me: <a href="mailto:blazarnu@gmail.com">blazarnu@gmail.com</a> </li>
-</li>
+  <li> 🧑‍💻 I’m currently working on the <a href="https://en.wikipedia.org/wiki/Ackermann_function">fastest growing function</a> lib for Go</li>
+  <li> ✨ In the plans: ChatGPT Discord Bot, Pixel art generator, Fitness tracker</li>
 </ul>
 
 <p><a href="https://www.linkedin.com/in/timonchristiansen/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/khankov/" alt="LinkedIn Badge"></a>
