@@ -20,7 +20,6 @@ __/\\\________/\\\__/\\\\\\\\\\\\\\\__/\\\______________/\\\___________________/
 </ul>
 
 <p><a href="https://www.linkedin.com/in/timonchristiansen/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/khankov/" alt="LinkedIn Badge"></a>
-<a href="https://github.com/xannystar/xannystar/actions"><img src="https://github.com/8BitJonny/8BitJonny/actions/workflows/main.yml/badge.svg" alt="Build Readme Status"></a></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=99c5f6&width=800&lines=This+page+is+best+viewed+in+dark+mode.;Hope+you+enjoy!;Now+we+both+probably+need+to+get+back+to+coding" />
