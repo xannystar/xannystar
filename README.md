@@ -15,7 +15,7 @@ __/\\\________/\\\__/\\\\\\\\\\\\\\\__/\\\______________/\\\___________________/
   <li> 🚩 I’m currently learning Golang </li>
   <li> 🎓 Software Engineering student from <a href="https://metu.edu.kz/">International Engineering Technological University</a> </li>
   <li> 📫 How to reach me: <a href="mailto:blazarnu@gmail.com">blazarnu@gmail.com</a> </li>
-  <li> 🧑‍💻 I’m currently working on the <a href="https://en.wikipedia.org/wiki/Ackermann_function">fastest growing function</a> lib for Go</li>
+  <li> 🧑‍💻 I’m currently working on the <a href="https://en.wikipedia.org/wiki/Ackermann_function">fastest growing function</a> for Go</li>
   <li> ✨ In the plans: ChatGPT Discord Bot, Pixel art generator, Fitness tracker</li>
 </ul>
 
